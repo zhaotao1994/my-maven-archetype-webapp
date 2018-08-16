@@ -1,5 +1,5 @@
 ## Maven Webapp Archetype
-`maven-archetype-webapp` is an archetype which generates a sample Maven webapp project:
+`my-maven-archetype-webapp` is an archetype which generates a sample Maven webapp project:
 
     project
     |-- pom.xml
